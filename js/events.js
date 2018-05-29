@@ -20,6 +20,8 @@ function frameIt() {
 
 function pressIt() {
   $('#typing').on('keydown', function(key) {
-    if (key.which === 7)
+    if (key.which === 71) {
+      
+    }
   });
 }
